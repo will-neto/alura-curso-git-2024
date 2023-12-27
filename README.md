@@ -2,6 +2,8 @@
 
 > Status do projeto: Em Desenvolvimento
 
+Execute o comando abaixo
+
 ```
   node app.js
 ```
