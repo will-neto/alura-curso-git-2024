@@ -3,5 +3,5 @@
 > Status do projeto: Em Desenvolvimento
 
 ```
-  npm install teste
+  node app.js
 ```
